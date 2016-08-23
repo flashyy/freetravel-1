@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "帐篷",
+    "img": "11111111",
+    "price": 40,
+    "unit": "顶",
+    "briefDescription": "好用"
+  },
+  {
+    "id": 2,
+    "name": "雨伞",
+    "img": "22222222",
+    "price": 50,
+    "unit": "个",
+    "briefDescription": "不错"
+  },
+  {
+    "id": 3,
+    "name":"相机",
+    "img": "22222222",
+    "price": 50,
+    "unit": "个",
+    "briefDescription": "不错"
+  },
+  {
+     "id": 4,
+    "name":"雨伞",
+    "img":"33333333",
+    "price":60,
+     "unit":"个",
+     "briefDescription":"很好"
+  }
+]

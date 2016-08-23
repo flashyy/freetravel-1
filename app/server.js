@@ -42,6 +42,7 @@ app.get('/hello', function (req, res) {
 
 app.post('/register', routes.insert);
 app.post('/login', routes.login);
+
 if (require.main === module) {
   app.listen(3000, function () {
     db.connect((err) => {
